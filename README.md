@@ -15,7 +15,7 @@
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/Family-Travel-Tracker.git</code></pre>
+        <pre><code>git clone https://github.com/gajananjoshi0601/Family-Travel-Tracker.git</code></pre>
     </li>
     <li>Navigate to the project directory:
         <pre><code>cd Family-Travel-Tracker</code></pre>
